@@ -1,5 +1,5 @@
 const clientId = 'b92611bf903d4e89a40c7ff689755f2d';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://kichlist.surge.sh';
 
 let accessToken;
 
